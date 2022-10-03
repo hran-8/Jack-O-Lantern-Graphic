@@ -8,4 +8,4 @@ Created an October-themed HTML / CSS graphic for fun.
 - Using pseudo-elements and box shadows
 
 # Code Pen:
-url(https://codepen.io/hran-8/pen/XWqYMBN)
+https://codepen.io/hran-8/pen/XWqYMBN
